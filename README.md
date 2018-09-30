@@ -1,2 +1,2 @@
 # GtesT
-Python UnitTest Framework(Similar like java)
+Python UnitTest Framework(Similar like java TestNG)

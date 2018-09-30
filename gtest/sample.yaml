@@ -1,0 +1,6 @@
+TestName: GtesT
+ClassNames:
+  -Test_login
+
+Logs_Path: None
+HTML_Reports_Path: None
